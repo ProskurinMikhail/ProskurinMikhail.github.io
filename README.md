@@ -1,4 +1,4 @@
 Оригинальный сайт - https://es.pfrf.ru/
-Копия - ProskurinMikhail.github.io
+Копия - https://proskurinmikhail.github.io/
 
 # Sum2022_1st_task
