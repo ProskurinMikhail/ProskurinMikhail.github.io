@@ -1,0 +1,82 @@
+#upper-header {
+    background-color: #f7f7f7;
+    padding: 6px;
+    font-family: "Roboto Condensed", Arial, sans-serif;
+}
+#upper-header a {
+    color: #333;
+    font-size: 14px;
+    text-decoration: none;
+}
+.container {
+    width: 1170px;
+}
+.container {
+    margin-right: auto;
+    margin-left: auto;
+}
+.social-links{
+    text-align: right;
+}
+#headerwords {
+    font-family: 'Roboto Condensed', Arial, sans-serif;
+    padding-top: 12px;
+    padding-bottom: 10px;
+}
+#headerwords a{
+    padding-top: 8px;
+    display: block;
+    padding-left: 8px;
+    min-height: 88px;
+    font-weight: bold;
+    font-size: 36px;
+    text-decoration: none;
+    color: #3a3a3a;
+    line-height: 1em;
+    text-shadow: 1px 2px 5px #bababa;
+}
+#headlog {
+    font-family: 'Roboto Condensed', Arial, sans-serif;
+}
+#headlog a{
+    font-size: 18px;
+    color: #3a3a3a;
+}
+.rotator {
+    display: inline-block;
+    color: #fff;
+    font-size: 30px;
+    text-shadow: 1px 2px 5px #557998;
+    cursor: pointer;
+    font-family: "Roboto Condensed", Arial, sans-serif;
+}
+.laptoprow {
+    display: inline-block;
+    font-family: "Roboto Condensed", Arial, sans-serif;
+    color: #fff;
+    font-size: 30px;
+    text-shadow: 1px 2px 5px #557998;
+}
+.columns{
+    display: inline-block;
+    font-family: "Roboto Condensed", Arial, sans-serif;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    cursor: pointer;   
+}
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'PT Sans', Arial, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    color: #3a3a3a;
+}
+.row{
+    text-align: center; 
+    font-size: 14px;
+    font-family: 'PT Sans', Arial, sans-serif;
+    color: #3a3a3a;
+}
